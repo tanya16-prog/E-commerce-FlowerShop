@@ -62,7 +62,7 @@ header .logo{
     font-size: 3rem;
     color: #333;
     font-weight: bolder;
-} */
+} 
 
 header .logo span{
     color: palevioletred;
@@ -131,8 +131,6 @@ header .ri-menu-line{
     padding: 2rem 0;
     padding-bottom: 3rem;
 }
-
- 
 
 .about.row.content h3{
     font-size: 3rem;
@@ -208,9 +206,7 @@ header .ri-menu-line{
      gap: 7rem;
   }
   .products .box-container .box .discount{
-    /* position: absolute; */
     padding-left: 5rem;
-    
    color: palevioletred;
   }
  .products .box-container .box:hover .image img{
@@ -357,3 +353,4 @@ header .ri-menu-line{
     font-size: 3rem; 
 
 }
+
